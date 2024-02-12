@@ -1,0 +1,10 @@
+#TODO
+#Test game states
+#-Level Start -> Level-> level End -> Level Start -> Level -> Level End
+#Test level is cleared aftes a level is ended
+#Test save files
+#-Read write player save files
+#-Start a game from saved files
+#Test all posibilities in the day Tree (Graph) have an End
+#Test Randomize news func
+#Test end day result func
